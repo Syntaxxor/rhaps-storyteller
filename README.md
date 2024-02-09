@@ -5,3 +5,4 @@ Mainly created so I could have a visual version of a dream I had. And also becau
 
 ## Important notes:
 - This engine runs at a static 320x180, though it is designed to scale that as best as it can to the current window size.
+- There are some template assets in this repository. These should be public domain or created by myself. Should I accidentally use someone else's materials without permission or proper rights, please notify me by opening an issue.
