@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.10.2" orientation="orthogonal" renderorder="right-down" width="30" height="20" tilewidth="16" tileheight="16" infinite="0" nextlayerid="3" nextobjectid="1">
+ <tileset firstgid="1" source="tilesets/kenney-tinytown.tsx"/>
+ <layer id="1" name="Ground" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzNVUEOwjAM65ozcO44wwb0/+9jkxrJRG7awUAcLG2pE7eZmw0hhOGPEeFZzHv8sGYrPxfYnAhx5UVAS7vGEaLj7btXU7mHBccf4GT2lxbcF1x3woPUW2Nnc+ZUYtgvIf20vqr1PDka6AWNWa0IHIwxHgLPESu6QniePxjH3i2rwWKqewv7+Wcm9Wayl0t43y+4NjrrK6ZK77x5gt9DTI72cSzrmdTvnWFaG2cQ86lytGcTOYM4etlwrGdquq3a3vxis7BXV/ebDd++e7qtdbxvrTvcUz+XOvZ/UpsHAjnePwG94p1JSL4QXS9fvZzD655afvbg+Yr1G/3+Dd0teAK0ixWA
+  </data>
+ </layer>
+ <layer id="2" name="Props" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzN001LQkEUBuBZGKW1UMx0V+jaUEtDK0ssIilISxeCi3TlQrKlffnXfYfOwHGYazOOSgcejvNx52Wu2hdC9B0M4JX1v+aDfDj6hBG8wcRiPsgUfhz7hHLkeAzv9FnN25zh6wu+l3juv1UeCgucwskaci+hCtfUq4bxFdufgx51vYpQgjOL3HtoQJt6wzB+YPsvYEhdrxrcQN0hV+loY5X7QvtvoQV3hrMeoQtPFrnrrpDn+rIV1c7eMqzvQgT2tLWs+H23x9SlZ1prsnm+roTY2bJiEIcw7MABJJkUyz13vuX8fSJ0prrPNuyTBKQDck2/Xdsy3eeQ5Ya1Pab7VlaUG2e5KjstVvuebXLV+86I+d/gpnJlRdmzPt+vrAwjS/6XjjSmKnvm6hWz3OeTOwMi3VPi
+  </data>
+ </layer>
+</map>

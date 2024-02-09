@@ -1,6 +1,8 @@
 mod phases;
 mod storyteller;
 mod menu;
+mod story;
+mod tilemap;
 
 use storyteller::Storyteller;
 use macroquad::prelude::*;
