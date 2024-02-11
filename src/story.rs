@@ -23,8 +23,6 @@ impl StoryEvent {
             return None;
         }
 
-        println!("{source}");
-
         if source.starts_with("#") {
             return None;
         }
@@ -64,7 +62,6 @@ impl<P: AsRef<Path>> PhaseBehavior<P> for Story {
                     continue;
                 }
                 if let Some(event) = StoryEvent::new(line) {
-                    println!("{:?}", event);
                     events.push_back(event);
                 }
             }
